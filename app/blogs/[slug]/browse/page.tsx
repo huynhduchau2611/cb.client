@@ -215,14 +215,5 @@ export default function BrowsePage() {
         </section>
       </div>
     </div>
-    <div>
-
-    </div>
-    div>
-      
-    </div>
-    div>
-      
-    </div>
   )
 }
